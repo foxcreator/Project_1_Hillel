@@ -1,5 +1,4 @@
 <?php
-
 function buy(array $productData = [])
 {
     $db = DB::connect();
